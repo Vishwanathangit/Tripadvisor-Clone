@@ -9,7 +9,7 @@ A fully responsive **static** clone of Tripadvisor, built using **HTML and CSS**
 - 🏗️ Built using **HTML & CSS** only  
 
 🚀 Live Demo  
-[]  
+[https://vishwanathangit.github.io/Tripadvisor-Clone/]  
 
 📂 Folder Structure  
 📂 tripadvisor-clone  
@@ -20,5 +20,5 @@ A fully responsive **static** clone of Tripadvisor, built using **HTML and CSS**
 
 💻 Setup & Usage  
 1. Clone this repo:  
-     
+     https://github.com/Vishwanathangit/Tripadvisor-Clone.git
 2. Open index.html in your browser.  
